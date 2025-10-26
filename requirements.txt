@@ -1,0 +1,11 @@
+# CATIA V5 AI Assistant Requirements
+
+# Required Python packages
+tkinter  # Usually comes with Python installation
+pywin32  # For Windows COM interface to CATIA
+requests  # For HTTP requests to AI APIs
+
+# Install command:
+# pip install pywin32 requests
+
+# Note: tkinter comes pre-installed with most Python distributions
