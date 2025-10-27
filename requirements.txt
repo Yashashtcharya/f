@@ -4,8 +4,9 @@
 tkinter  # Usually comes with Python installation
 pywin32  # For Windows COM interface to CATIA
 requests  # For HTTP requests to AI APIs
+pycatia  # Python library for CATIA automation
 
 # Install command:
-# pip install pywin32 requests
+# pip install pywin32 requests pycatia
 
 # Note: tkinter comes pre-installed with most Python distributions
